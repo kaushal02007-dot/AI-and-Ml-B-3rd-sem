@@ -1,1 +1,0 @@
-//to write the routes for students
